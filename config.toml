@@ -1,0 +1,42 @@
+ignoreFiles = ["content/posts/\\.*","content/portfolio/\\.*","content/product/\\.*","content/sketch/\\.*","content/en/\\.*","content/fr/\\.*"]
+baseURL = "https://frosty-kepler-a9033a.netlify.com"
+languageCode = "en-us"
+title = "Russell Gordon"
+theme = "hugo-flex"
+
+paginate = 3
+DefaultContentLanguage = "en-us"
+enableInlineShortcodes = "true"
+footnoteReturnLinkContents = "^"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+enableEmoji = "true"
+
+
+[params]
+    custom_css = ["css/gordon.css"] # ["css/first.css", "css/second.css"]
+ 	color = "var(--background-color)"
+ 	
+[permalinks]
+  archive = "/:year/:month/:title/"
+ 	
+[menu]
+
+  [[menu.nav]]
+  name = "Archive"
+  url = "/archive/"
+  weight = 1.0
+
+  [[menu.nav]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 2.0
+
+  [[menu.nav]]
+  name = "About"
+  url = "/about/"
+  weight = 3.0
+
+  [[menu.nav]]
+  name = "RSS"
+  url = "/index.xml"
+  weight = 4.0

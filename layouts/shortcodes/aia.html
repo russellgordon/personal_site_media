@@ -1,0 +1,4 @@
+{{ $text := .Get "text" }}
+{{ $src := .Get "src" }}
+{{ $asset := $.Page.Resources.GetMatch $src }}
+<a href="{{ $asset.Permalink }}">{{ $text }}</a>
