@@ -1,5 +1,5 @@
 ignoreFiles = ["content/posts/\\.*","content/portfolio/\\.*","content/product/\\.*","content/sketch/\\.*","content/en/\\.*","content/fr/\\.*"]
-baseURL = "https://frosty-kepler-a9033a.onrender.com"
+baseURL = "https://russellgordon.github.io"
 languageCode = "en-us"
 title = "Russell Gordon"
 theme = "hugo-flex"
