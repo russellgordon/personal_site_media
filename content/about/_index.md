@@ -16,4 +16,4 @@ I am grateful for what I have learned from a long list of educators, including b
 
 Sometimes I have been quick on the uptake, and sometimes I have learned the hard way, but I could not be anything approaching a reasonable teacher without these individuals.
 
-You may wish to view my résumé, or contact me.
+You may wish to view my résumé, or contact me. 
