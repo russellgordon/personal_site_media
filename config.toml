@@ -11,7 +11,6 @@ footnoteReturnLinkContents = "^"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 enableEmoji = "true"
 
-
 [params]
     custom_css = ["css/gordon.css"] # ["css/first.css", "css/second.css"]
  	color = "var(--background-color)"
