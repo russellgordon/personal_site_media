@@ -19,6 +19,8 @@ And then... there's this, from the lede on a [recent episode of 99% Invisible](h
 
 There's a town in Sweden. Karlskoga. It snows there. For a long time, like many places, when it snowed, major roads were cleared first. In the process of doing a gender analysis of local town policies, someone made a joke – *snow clearing*. It couldn't possibly have anything to do with gender, could it?
 
+
+
 Karlskoga city planners looked at the types of tasks  women handle on a daily basis. Tasks like shuttling children to school, stopping off to pick up groceries, dropping in to check on elderly relatives. Tasks that were often completed on foot or by taking public transit on smaller residential roads.
 
 It turns out... it's a lot harder, and much less safe, to push a stroller through a foot of snow than it is to drive a car down a major arterial road. Karlskoga decided to clear minor roads and residential areas first, and saw a significant decrease in healthcare costs, savings that far outweighed the cost of winter road maintenance.
