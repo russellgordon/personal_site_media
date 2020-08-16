@@ -26,16 +26,6 @@ enableEmoji = "true"
   weight = 1.0
 
   [[menu.nav]]
-  name = "Projects"
-  url = "/projects/"
-  weight = 2.0
-
-  [[menu.nav]]
-  name = "About"
-  url = "/about/"
-  weight = 3.0
-
-  [[menu.nav]]
   name = "RSS"
   url = "/index.xml"
-  weight = 4.0
+  weight = 2.0
